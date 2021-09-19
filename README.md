@@ -1,7 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Javascript projects!
-- 🌱 Learning React, Node.js and Cloud Web Applications with Docker/Kubernetes.
-- ⚡ Fun fact: Love sports, love the sun, the beach, and I have a sweet tooth!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/fabio-madeira-81b437145/)
 
